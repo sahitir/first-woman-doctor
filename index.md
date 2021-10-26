@@ -14,9 +14,9 @@ Kadambini Ganguly was born on July 18, 1861 in Bhagalpur, British India, now Ban
 
 ## Recognition
 
-* First Indian woman doctor alongside Anandi Gopal Joshi
-* Member of the all-women delegation of the India National Congress
-* A women's right champion who fought criticisim and opposition to pursue a degree in medicine
+First Indian woman doctor alongside Anandi Gopal Joshi
+Member of the all-women delegation of the India National Congress
+A women's right champion who fought criticisim and opposition to pursue a degree in medicine
 
 Read more about [Kadambini Ganguly](https://en.wikipedia.org/wiki/Kadambini_Ganguly).
 
