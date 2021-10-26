@@ -43,7 +43,7 @@ Read more about [Anandi Gopal Joshi](https://en.wikipedia.org/wiki/Anandi_Gopal_
 
 {% for anyword in site.data.life %}
 
-- {{anyword.doctor}}: {{anyword.birth}}: {{anyword.death}}
+| {{anyword.doctor}}| {{anyword.birth}}| {{anyword.death}}|
 
 {% endfor %}
 
