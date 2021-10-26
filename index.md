@@ -4,7 +4,7 @@ Doctor2: Anandi Gopal Joshi
 layout: template_demo
 ---
 
-<a href="index.md">Home</a> || <a href="page1.md>How to Become a Doctor</a> || <<a href="page2.md>More Details</a>
+<a href="index.md">Home </a> || <a href="page1.md>How to Become a Doctor </a> || <<a href="page2.md>More Details </a>
 
 # India's First Women Doctors
 
