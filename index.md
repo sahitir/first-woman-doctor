@@ -1,6 +1,7 @@
 ---
 Doctor1: Kadambini Ganguly
 Doctor2: Anandi Gopal Joshi
+layout: template_demo
 ---
 
 # India's First Women Doctors
