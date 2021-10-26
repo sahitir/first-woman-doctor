@@ -3,7 +3,7 @@ local1: How to
 layout: template_demo
 ---
 
-[Home](index.md)
+[Home](index.md) || [More Details](pages/page2.md)
 
 # Studying Western Medicine
 
