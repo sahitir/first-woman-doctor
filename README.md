@@ -1,16 +1,14 @@
-# Kadambini Ganguly
+# India's First Women Doctors
 
-Kadambini Ganguly was _India's first trained woman physician_. She graduated from Medical College of Bengal in 1886. 
+Kadambini Ganguly and Anandi Gopal Joshi were two of _India's first trained women physicians_.
 
-She was also a women-rights champion and was one of the all-women delegation of the 1889 **Indian National Congress**.
+## Kadambini Ganguly
 
-## Early Life
-
-Kadambini was born on July 18, 1861 in Bhagal, British India, now Bangladesh.
+Kadambini Ganguly was born on July 18, 1861 in Bhagalpur, British India, now Bangladesh. She graduated from Calcutta Medical College in 1886. 
 
 ## Recognition
 
 - First Indian woman to practice western medicine alongside Anandi Gopal Joshi
-- Member of the six-member, all-women delegation of the India National Congress
-- Womens right champion who fought criticisim and opposition to pursue a degree in medicine.
-- 
+- Member of the all-women delegation of the India National Congress
+- Womens right champion who fought criticisim and opposition to pursue a degree in medicine
+
