@@ -39,3 +39,12 @@ Anandi passed away in 1887 at a young age of twenty-two years from tuberculosis,
 {% include includefile.txt %}
 
 Read more about [Anandi Gopal Joshi](https://en.wikipedia.org/wiki/Anandi_Gopal_Joshi)
+
+
+{% for entry in site.data.life %}
+
+-  {{entry.year}}: {{entry.birth}}: {{entry.death}}
+
+{% endfor %}
+
+
