@@ -15,3 +15,4 @@ Kadambini Ganguly was born on July 18, 1861 in Bhagalpur, British India, now Ban
 Read more about [Kadambini Ganguly](https://en.wikipedia.org/wiki/Kadambini_Ganguly).
 
 ![Kadambini_Ganguly](https://user-images.githubusercontent.com/91772418/138817866-34a70868-2e87-40d2-89d7-2e69162777f2.jpg)
+![Anandibai_joshi](https://user-images.githubusercontent.com/91772418/138854638-91de3d20-cc65-4d08-9766-b82ff12e7321.jpg)
