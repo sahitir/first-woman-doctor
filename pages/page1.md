@@ -3,7 +3,7 @@ local1: How to
 layout: template_demo
 ---
 
-[How to Become a Doctor](index.md)
+[Home](index.md)
 
 # Studying Western Medicine
 
