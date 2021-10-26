@@ -1,4 +1,4 @@
 **This page is under construction. Come back soon.**
 
-[Home](first-woman-doctor/index.md) || [How to Become a Doctor](pages/page1.md)
+[Home](https://sahitir.github.io/first-woman-doctor/) || [How to Become a Doctor](https://sahitir.github.io/first-woman-doctor/pages/page1.html)
 
